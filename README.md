@@ -1,4 +1,4 @@
 # Demo
 
-Some description (this Demo for learning praposel only)!
+Some description (this Demo for learning proposel only)!
 
